@@ -34,3 +34,11 @@ Deux programmes exécutables sont installés:
 
 - Git bash (interpréteur en ligne de commande de type script)
 - Git Gui (Graphical User Interface, ou interface graphique)
+
+### Documentation
+La documentation et les tutos gratuits sur Git sont nombreux,
+nous apprendrons donc Git par la pratique, 
+avec des actions simples pour commencer, en mode "solo", puis en équipe.
+
+Git Cheat Sheet:
+[Lien vers le PDF](https://raw.githubusercontent.com/mikhawa/g_i_t/48a25661bda568559e54e44b86c1115cd753a9dd/doc/github-git-cheat-sheet.pdf "Git Cheat Sheet en PDF")
