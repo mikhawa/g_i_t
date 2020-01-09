@@ -42,3 +42,7 @@ avec des actions simples pour commencer, en mode "solo", puis en équipe.
 
 Git Cheat Sheet:
 [Lien vers le PDF](https://raw.githubusercontent.com/mikhawa/g_i_t/48a25661bda568559e54e44b86c1115cd753a9dd/doc/github-git-cheat-sheet.pdf "Git Cheat Sheet en PDF")
+
+Progit, le livre complet:
+[Lien vers le PDF](https://raw.githubusercontent.com/mikhawa/g_i_t/e6bbc0104c590f31fe2eddbbc0515273603cd281/doc/progit_v2.1.44.pdf "progit_v2.1.44.pdf")
+
