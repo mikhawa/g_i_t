@@ -9,4 +9,4 @@ vous pouvez consulter le site officiel:
 
 ![alt text](https://raw.githubusercontent.com/mikhawa/g_i_t/master/img/united-kingdom-flag-icon-16.png "EN") https://git-scm.com/ 
 
-Vous y trouverez également une documentation conséquente.
+Vous trouverez également sur ce site une documentation conséquente.
