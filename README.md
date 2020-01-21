@@ -84,5 +84,12 @@ Tuto sur git en français:
 Git Cheat Sheet en JPG:
 ![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/Git-cheat-sheet.jpg "EN")
 
+
 coucou les copains !!
+Hey guy
+T'es sur de toi?
+Coucou les amis
+Michaël
+Bryan-cf2m <3
+
 
