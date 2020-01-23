@@ -84,6 +84,16 @@ Tuto sur git en français:
 Git Cheat Sheet en JPG:
 ![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/Git-cheat-sheet.jpg "EN")
 
+### Aide mémoire venant du Tuto de Grafikart:
+
+![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/01-www.grafikart.fr-2020.01.23-10_35_59.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/02-www.grafikart.fr-2020.01.23-10_37_55.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/03-www.grafikart.fr-2020.01.23-10_38_59.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/04-www.grafikart.fr-2020.01.23-10_40_19.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/05-www.grafikart.fr-2020.01.23-10_41_24.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/06-www.grafikart.fr-2020.01.23-10_42_43.png "EN")
+
+### Vos commentaires
 
 Hey guy
 T'es sur de toi?
