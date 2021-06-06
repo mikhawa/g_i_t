@@ -63,7 +63,7 @@ sur les projets tout le long de la formation.
 Si vous n'avez pas encore de compte, créez-en un avec une adresse
 mail valide, que vous pouvez consulter immédiatement.
 
-https://github.com/WebDevCF2m2020 
+https://github.com/WebDevCF2m2021
 
 ### Documentation
 La documentation et les tutos gratuits sur Git sont nombreux,
@@ -71,14 +71,14 @@ nous apprendrons donc Git par la pratique,
 avec des actions simples pour commencer, en mode "solo", puis en équipe.
 
 Git Cheat Sheet en PDF:
-[Lien vers le PDF](https://raw.githubusercontent.com/mikhawa/g_i_t/48a25661bda568559e54e44b86c1115cd753a9dd/doc/github-git-cheat-sheet.pdf "Git Cheat Sheet en PDF")
+[Lien vers le PDF](https://github.com/mikhawa/g_i_t/raw/master/doc/github-git-cheat-sheet.pdf "Git Cheat Sheet en PDF")
 
 Progit, le livre complet en PDF:
-[Lien vers le PDF](https://raw.githubusercontent.com/mikhawa/g_i_t/e6bbc0104c590f31fe2eddbbc0515273603cd281/doc/progit_v2.1.66.pdf "progit_v2.1.66.pdf")
+[Lien vers le PDF](https://github.com/mikhawa/g_i_t/raw/master/doc/progit_v2.1.66.pdf "progit_v2.1.66.pdf")
 
 Tuto sur git en français:
 
-![alt text](https://raw.githubusercontent.com/mikhawa/g_i_t/master/img/france-flag-icon-16.png "FR") https://openclassrooms.com/fr/courses/1233741-gerez-vos-codes-source-avec-git
+![alt text](https://raw.githubusercontent.com/mikhawa/g_i_t/master/img/france-flag-icon-16.png "FR") https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
 
 
 Git Cheat Sheet en JPG:
