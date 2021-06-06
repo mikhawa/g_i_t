@@ -74,7 +74,7 @@ Git Cheat Sheet en PDF:
 [Lien vers le PDF](https://raw.githubusercontent.com/mikhawa/g_i_t/48a25661bda568559e54e44b86c1115cd753a9dd/doc/github-git-cheat-sheet.pdf "Git Cheat Sheet en PDF")
 
 Progit, le livre complet en PDF:
-[Lien vers le PDF](https://raw.githubusercontent.com/mikhawa/g_i_t/e6bbc0104c590f31fe2eddbbc0515273603cd281/doc/progit_v2.1.44.pdf "progit_v2.1.44.pdf")
+[Lien vers le PDF](https://raw.githubusercontent.com/mikhawa/g_i_t/e6bbc0104c590f31fe2eddbbc0515273603cd281/doc/progit_v2.1.66.pdf "progit_v2.1.66.pdf")
 
 Tuto sur git en français:
 
