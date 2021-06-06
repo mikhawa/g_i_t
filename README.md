@@ -18,7 +18,7 @@ D'abord Linux, puis Git.”
 Pour installer le programme quel que soit votre système d'exploitation,
 vous pouvez consulter le site officiel:
 
-![alt text](https://raw.githubusercontent.com/mikhawa/g_i_t/master/img/united-kingdom-flag-icon-16.png "EN") https://git-scm.com/ 
+![alt text](https://raw.githubusercontent.com/mikhawa/g_i_t/main/img/united-kingdom-flag-icon-16.png "EN") https://git-scm.com/ 
 
 Vous trouverez également sur ce site une documentation conséquente.
 
@@ -71,26 +71,26 @@ nous apprendrons donc Git par la pratique,
 avec des actions simples pour commencer, en mode "solo", puis en équipe.
 
 Git Cheat Sheet en PDF:
-[Lien vers le PDF](https://github.com/mikhawa/g_i_t/raw/master/doc/github-git-cheat-sheet.pdf "Git Cheat Sheet en PDF")
+[Lien vers le PDF](https://github.com/mikhawa/g_i_t/raw/main/doc/github-git-cheat-sheet.pdf "Git Cheat Sheet en PDF")
 
 Progit, le livre complet en PDF:
-[Lien vers le PDF](https://github.com/mikhawa/g_i_t/raw/master/doc/progit_v2.1.66.pdf "progit_v2.1.66.pdf")
+[Lien vers le PDF](https://github.com/mikhawa/g_i_t/raw/main/doc/progit_v2.1.66.pdf "progit_v2.1.66.pdf")
 
 Tuto sur git en français:
 
-![alt text](https://raw.githubusercontent.com/mikhawa/g_i_t/master/img/france-flag-icon-16.png "FR") https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
+![alt text](https://raw.githubusercontent.com/mikhawa/g_i_t/main/img/france-flag-icon-16.png "FR") https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
 
 
 Git Cheat Sheet en JPG:
-![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/Git-cheat-sheet.jpg "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/main/img/Git-cheat-sheet.jpg "EN")
 
 ### Aide mémoire venant du Tuto de Grafikart:
 
-![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/01-www.grafikart.fr-2020.01.23-10_35_59.png "EN")
-![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/02-www.grafikart.fr-2020.01.23-10_37_55.png "EN")
-![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/03-www.grafikart.fr-2020.01.23-10_38_59.png "EN")
-![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/04-www.grafikart.fr-2020.01.23-10_40_19.png "EN")
-![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/05-www.grafikart.fr-2020.01.23-10_41_24.png "EN")
-![alt text](https://github.com/mikhawa/g_i_t/raw/master/img/06-www.grafikart.fr-2020.01.23-10_42_43.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/main/img/01-www.grafikart.fr-2020.01.23-10_35_59.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/main/img/02-www.grafikart.fr-2020.01.23-10_37_55.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/main/img/03-www.grafikart.fr-2020.01.23-10_38_59.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/main/img/04-www.grafikart.fr-2020.01.23-10_40_19.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/main/img/05-www.grafikart.fr-2020.01.23-10_41_24.png "EN")
+![alt text](https://github.com/mikhawa/g_i_t/raw/main/img/06-www.grafikart.fr-2020.01.23-10_42_43.png "EN")
 
 
